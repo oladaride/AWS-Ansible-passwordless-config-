@@ -62,6 +62,9 @@ This project demonstrated how I set up "two AWS EC2 instances" — one as a "con
 - Configuration management & automation  
 
 ---
+<img width="1366" height="768" alt="Screenshot (1600)" src="https://github.com/user-attachments/assets/6c541acc-1346-4c77-89f8-0d1b7dad798b" />
+<img width="1366" height="768" alt="Screenshot (1599)" src="https://github.com/user-attachments/assets/11f1f414-6f88-4957-b7eb-24910520a6e6" />
+<img width="1366" height="768" alt="Screenshot (1601)" src="https://github.com/user-attachments/assets/8f952a58-6aa6-49e2-923f-656bb37d5c60" />
 
 ##  Future Improvements
 - Scale to multiple target servers in the inventory.  
